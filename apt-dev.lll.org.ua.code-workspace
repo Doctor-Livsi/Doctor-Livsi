@@ -1,0 +1,30 @@
+{
+	"folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../acorn-classic-dashboard.laravel.local"
+        },
+        {
+            "path": "../acorn-ecommerce-platform.laravel.local"
+        },
+        {
+            "path": "../acorn-elearning-portal.laravel.local"
+        },
+        {
+            "path": "../acorn-medical-assistant.laravel.local"
+        },
+        {
+            "path": "../acorn-service-provider.laravel.local"
+        },
+        {
+            "path": "../acorn-starter-project.laravel.local"
+        }
+    ],
+	"settings": {
+		"editor.tabSize": 4,
+        "editor.insertSpaces": true,
+		"blade.format.enable": true
+	}
+}
