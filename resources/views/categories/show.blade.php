@@ -1,2 +1,0 @@
-{{ $category->slug}}
-category
